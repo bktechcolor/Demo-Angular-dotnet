@@ -1,0 +1,14 @@
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\bin\Debug\net6.0\DemoBusiness.deps.json
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\bin\Debug\net6.0\DemoBusiness.dll
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\bin\Debug\net6.0\DemoBusiness.pdb
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\DemoBusiness.csproj.AssemblyReference.cache
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\DemoBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\DemoBusiness.AssemblyInfoInputs.cache
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\DemoBusiness.AssemblyInfo.cs
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\DemoBusiness.csproj.CoreCompileInputs.cache
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\DemoBusiness.dll
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\refint\DemoBusiness.dll
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\DemoBusiness.pdb
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\ref\DemoBusiness.dll
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\bin\Debug\net6.0\DemoBusiness.runtimeconfig.json
+C:\Users\dangs\source\repos\DemoProject\DemoBusiness\obj\Debug\net6.0\DemoBusiness.genruntimeconfig.cache
